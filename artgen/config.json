@@ -1,0 +1,29 @@
+{
+  "palette": [
+    "#E6E3E5",
+    "#5D5D68", 
+    "#271A16",
+    "#E060A6",
+    "#9369DB",
+    "#6094F7",
+    "#4A66C0",
+    "#295E26",
+    "#6BDB78",
+    "#F7B35B",
+    "#F27843",
+    "#AC552F",
+    "#EA5254",
+    "#C3DEE0",
+    "#E5C9A2"
+  ],
+  "layer_order": [
+    "background",
+    "curse",
+    "buddy",
+    "fit",
+    "hat",
+    "misc",
+    "specialcurse"
+  ],
+  "tolerance": 0
+}
