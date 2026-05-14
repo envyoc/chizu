@@ -25,5 +25,14 @@
     "misc",
     "specialcurse"
   ],
+  "rarity": {
+    "background": { "rarity": 0 },
+    "curse": { "rarity": 0.05 },
+    "buddy": { "rarity": 0 },
+    "fit": { "rarity": 0.90 },
+    "hat": { "rarity": 0.95 },
+    "misc": { "rarity": 0.3 },
+    "specialcurse": { "rarity": 0.01 }
+  },
   "tolerance": 0
 }
