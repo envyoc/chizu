@@ -1,0 +1,8 @@
+# Keep assets local only
+assets/
+output/
+
+# Python
+venv/
+__pycache__/
+*.pyc
