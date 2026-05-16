@@ -1,7 +1,7 @@
 {
   "palette": [
     "#E6E3E5",
-    "#5D5D68", 
+    "#5D5D68",
     "#271A16",
     "#E060A6",
     "#9369DB",
@@ -26,13 +26,42 @@
     "specialcurse"
   ],
   "rarity": {
-    "background": { "rarity": 0 },
-    "curse": { "rarity": 95 },
-    "buddy": { "rarity": 0 },
-    "fit": { "rarity": 10 },
-    "hat": { "rarity": 5 },
-    "misc": { "rarity": 70 },
-    "specialcurse": { "rarity": 99 }
+    "background": {
+      "rarity": 1
+    },
+    "curse": {
+      "rarity": 85
+    },
+    "buddy": {
+      "rarity": 0
+    },
+    "fit": {
+      "rarity": 10
+    },
+    "hat": {
+      "rarity": 5
+    },
+    "misc": {
+      "rarity": 70
+    },
+    "specialcurse": {
+      "rarity": 95
+    }
+  },
+  "buddy": {
+    "brownbear.png": 50,
+    "polarbear.png": 40,
+    "pandabear.png": 40,
+    "dogbear.png": 35,
+    "dropbear.png": 35,
+    "goldbear.png": 3,
+    "penguin.png": 20,
+    "duck.png": 20,
+    "man.png": 10,
+    "alien.png": 8,
+    "pepe.png": 10,
+    "skeletonbear.png": 5,
+    "bluebear.png": 2
   },
   "tolerance": 0
 }
