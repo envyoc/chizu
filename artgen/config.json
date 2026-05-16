@@ -27,12 +27,12 @@
   ],
   "rarity": {
     "background": { "rarity": 0 },
-    "curse": { "rarity": 0.05 },
+    "curse": { "rarity": 95 },
     "buddy": { "rarity": 0 },
-    "fit": { "rarity": 0.90 },
-    "hat": { "rarity": 0.95 },
-    "misc": { "rarity": 0.3 },
-    "specialcurse": { "rarity": 0.01 }
+    "fit": { "rarity": 10 },
+    "hat": { "rarity": 5 },
+    "misc": { "rarity": 70 },
+    "specialcurse": { "rarity": 99 }
   },
   "tolerance": 0
 }
